@@ -5,3 +5,6 @@
 [submodule "ggvariant"]
 	path = ggvariant
 	url = https://github.com/josh45-source/ggvariant
+[submodule "glyph"]
+	path = glyph
+	url = https://github.com/josh45-source/glyph
